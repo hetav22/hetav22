@@ -37,7 +37,7 @@ Analyzed 1 million+ retail transactions using **Python** (ANOVA, t-tests, RFM se
 
 **🔹 Logistics Intelligence Dashboard**
 
-Built a 5-page **interactive Power BI dashboard** by integrating 14 logistics datasets covering trips, drivers, fleet, fuel, maintenance, and safety incidents. Designed a star-schema relational model, implemented advanced DAX functions (CALCULATE, DIVIDE, SWITCH, VAR), and created KPI cards, treemaps, gauges, and heatmaps to surface insights on operational efficiency, fuel cost optimization, driver compliance, and financial profitability.
+Built a 5-page **interactive Power BI dashboard** by integrating 14 logistics datasets covering trips, drivers, fleet, fuel, maintenance, and safety incidents. Designed a star-schema relational model, implemented advanced **DAX functions** (CALCULATE, DIVIDE, SWITCH, VAR), and created KPI cards, treemaps, gauges, and heatmaps to surface insights on operational efficiency, fuel cost optimization, driver compliance, and financial profitability.
 
 
 ---
