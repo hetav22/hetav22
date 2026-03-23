@@ -21,12 +21,15 @@ Right now I'm building, learning, and figuring things out — one project at a t
 ## 📂 What I've Worked On
 
 **🔹 Retail Analytics Dashboard** 
+
 Built an **interactive Power BI dashboard** focused on retail data visualization, business insights, and strategy formulation. Translated raw retail data into visual KPIs and trend analysis to support data-driven decision-making. 
 
 **🔹 Influencer Marketing Effectiveness Analysis** 
+
 Applied big data concepts to analyze the effectiveness of influencer marketing campaigns. Focused on identifying measurable impact on audience engagement and campaign performance.
 
 **🔹 Retail Analytics — Understanding Retail Growth: Sales & Consumer Behavior**
+
 Analyzed 1 million+ retail transactions using **Python** (ANOVA, t-tests, RFM segmentation, seasonality decomposition) and **built a Power BI dashboard** covering revenue drivers, discount impact, customer retention risk, and demand trends. Found that moderate discounts outperform heavy discounting, and identified high-value customer segments using RFM analysis. 
 
 **🔹 E-Commerce Strategy — Sajan Sherwani** *(MAP Project — Aug–Oct 2025)*
