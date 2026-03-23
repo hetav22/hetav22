@@ -14,7 +14,6 @@ Right now I'm building, learning, and figuring things out — one project at a t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FFD700?style=for-the-badge&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -35,14 +34,6 @@ Worked with a local ethnic wear business in Surat to develop their website, onli
 
 ---
 
-## 🎓 Education
-
-**MBA — Business Analytics** | S. R. Luthra Institute of Management, Sarvajanik University | 2024–26
-
-**B.Com** | S.P.B English Medium College of Commerce, VNSGU | 2021–24
-
----
-
 ## 📍 Based in Surat, Gujarat
 Open to Business Analyst and Data Analyst roles — remote or Surat/Ahmedabad based.
 
@@ -50,8 +41,8 @@ Open to Business Analyst and Data Analyst roles — remote or Surat/Ahmedabad ba
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hetav-chaudhari)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharihetav220903@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetav-chaudhari-b71aa4350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=chaudharihetav220903@gmail.com)
 
 ---
 
