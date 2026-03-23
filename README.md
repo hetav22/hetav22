@@ -18,7 +18,8 @@ Right now I'm building, learning, and figuring things out — one project at a t
 
 ---
 
-## 📂 What I've Worked On
+## 📂 What I've Worked On 
+[![To the Portfolio](https://img.shields.io/badge/%20To%20my-%20Portfolio-2D333B?style=for-the-badge)](../../tree/main)
 
 **🔹 Retail Analytics Dashboard** 
 
